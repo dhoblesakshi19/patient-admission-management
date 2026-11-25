@@ -20,10 +20,16 @@ A full-stack hospital patient admission management system built for the DScribe 
 ## Screenshots
 
 ### Hospital Dashboard
-![Hospital Dashboard](screenshots/dashboard.png)
+![Hospital Dashboard](Screenshots/Dashboard.png)
 
-### Add / Edit Patient Modal
-![Add Patient Modal](screenshots/add-patient-modal.png)
+### Add Patient Modal
+![Add Patient Modal](Screenshots/Add%20Patient.png)
+
+### After Adding Patient
+![After Adding Patient](Screenshots/After%20adding%20patient.png)
+
+### Status Changed (Discharged)
+![Status Changed](Screenshots/Status%20changed.png)
 
 ## Steps to Run Locally
 
